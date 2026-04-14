@@ -19,3 +19,5 @@ The following slide deck is Part 1 of an introduction to ArcGIS Online.
 <https://uoft.me/AGOL>
 
 <iframe allowfullscreen="true" frameborder="0" height="569" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vTdS0qp880msvSa6pQsnJ0hS9LRVtGzQUBYSUn62Fec4hqOhWpeMRqkYhscK28IhLGj0pWLh4TD3c22/embed?start=false&amp;loop=false&amp;delayms=5000" webkitallowfullscreen="true" width="960"></iframe>
+
+Technique: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis]([https://mdl.library.utoronto.ca/technique/spatial-analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis)) | Tools: [ArcGIS](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS), [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online)
